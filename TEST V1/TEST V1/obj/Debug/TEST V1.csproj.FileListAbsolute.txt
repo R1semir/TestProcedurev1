@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\TEST V1\TEST V1\bin\Debug\TEST V1.exe.config
+C:\Users\legen\source\repos\TEST V1\TEST V1\bin\Debug\TEST V1.exe
+C:\Users\legen\source\repos\TEST V1\TEST V1\bin\Debug\TEST V1.pdb
+C:\Users\legen\source\repos\TEST V1\TEST V1\obj\Debug\TEST V1.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\TEST V1\TEST V1\obj\Debug\TEST_V1.Form1.resources
+C:\Users\legen\source\repos\TEST V1\TEST V1\obj\Debug\TEST_V1.Properties.Resources.resources
+C:\Users\legen\source\repos\TEST V1\TEST V1\obj\Debug\TEST V1.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\TEST V1\TEST V1\obj\Debug\TEST V1.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\TEST V1\TEST V1\obj\Debug\TEST V1.exe
+C:\Users\legen\source\repos\TEST V1\TEST V1\obj\Debug\TEST V1.pdb
